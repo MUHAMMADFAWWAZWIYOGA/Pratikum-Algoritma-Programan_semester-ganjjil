@@ -1,7 +1,7 @@
 ```java
 package Pekan2;
 
-public class Tugas1 {
+public class Tugas2 {
 
     public static void main(String[] args) {
         int harga, jumlah;
