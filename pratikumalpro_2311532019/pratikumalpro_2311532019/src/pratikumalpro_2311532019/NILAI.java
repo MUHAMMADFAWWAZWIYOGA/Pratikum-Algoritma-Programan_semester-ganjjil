@@ -24,7 +24,7 @@ public class NILAI {
 		else if (nilai >=50){
 		System.out.println("D");}
 		
-	   else {
+	        else {
 		System.out.println("E");}
 		
 		
