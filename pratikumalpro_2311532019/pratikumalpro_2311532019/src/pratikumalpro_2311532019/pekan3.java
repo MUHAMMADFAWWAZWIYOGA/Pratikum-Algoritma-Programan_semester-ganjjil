@@ -2,7 +2,7 @@ package pratikumalpro_2311532019;
 
 import java.util.Scanner;
 
-public class Apekan3 {
+public class pekan3 {
 	
 	public static void main (String[] arg) {
 		double IPK;
