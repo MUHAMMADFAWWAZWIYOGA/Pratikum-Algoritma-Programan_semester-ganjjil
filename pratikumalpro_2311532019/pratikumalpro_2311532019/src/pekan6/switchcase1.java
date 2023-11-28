@@ -21,7 +21,7 @@ public class switchcase1 {
 		break;
 		default:
 			System.out.println( " PIlihan anda bukan nomor 1 sampai 3 ");
-			System.out.println("terima kasih sudah memilih ");
+			System.out.println("terima kasih sudah memilih... ");
 		}
 	}
 

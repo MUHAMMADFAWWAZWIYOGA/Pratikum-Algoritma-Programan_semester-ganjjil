@@ -1,10 +1,8 @@
-package pekan5;
+package pekan7;
 
 import java.util.Scanner;
 
-import pekan7.Razia;
-
-public class perulanganwhile3 {
+public class method2 {
 	public static void main (String [] args) { 
 		int umur;
 		char sim;
@@ -19,10 +17,6 @@ public class perulanganwhile3 {
 		umur= scan.nextInt();
 		System.out.println("apakah anda sudah punya sim c: ");
 		sim=scan.next().charAt(0);
-		// razia (umur,sim);
-		Razia selasa = new Razia();
-		selasa.RaziaMotor(umur,sim);
-		
 		scan.close();
 		if ((umur >=17)&&(sim=='y')) {
 			System.out.println("Anda sudah dewasa dan boleh mengemudi");
@@ -39,9 +33,9 @@ public class perulanganwhile3 {
 		}
 		
 		System.out.println( "terima kasih sudah menggunakan program kami ");
-		
+		Scanner.close();
 		}}
-
+	
 	
 
 
